@@ -41,7 +41,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        chain: [chadwicks_ie]
+        chain: [woodies_ie]
     steps:
       - uses: actions/checkout@v4
         with:
