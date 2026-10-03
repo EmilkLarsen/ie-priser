@@ -11,7 +11,7 @@ from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LATEST = os.path.join(ROOT, "data", "latest")
-CHAINS = ['woodies_ie']
+CHAINS = ["woodies_ie"]
 
 # known catalog sizes (approximate, from verified sources) — a chain whose
 # snapshot holds <60% of this is treated as incomplete even with a marker
