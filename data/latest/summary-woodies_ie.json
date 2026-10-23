@@ -1,12 +1,12 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "chains": {
   "woodies_ie": {
-   "products": 21536,
+   "products": 21767,
    "price_changes": 0,
    "suspicious_changes": 0,
-   "expired": 12,
-   "seconds": 12306.0
+   "expired": 60,
+   "seconds": 13929.7
   }
  }
 }
