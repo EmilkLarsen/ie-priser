@@ -1,13 +1,13 @@
 {
- "date": "2026-11-01",
- "total_rows": 23140,
+ "date": "2026-11-02",
+ "total_rows": 23123,
  "chains": {
   "woodies_ie": {
-   "products": 22028,
+   "products": 22007,
    "price_changes": 0,
    "suspicious_changes": 0,
-   "expired": 15,
-   "seconds": 12277.1
+   "expired": 28,
+   "seconds": 12240.6
   }
  }
 }
