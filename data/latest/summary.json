@@ -3,11 +3,11 @@
  "total_rows": 23183,
  "chains": {
   "woodies_ie": {
-   "products": 21758,
+   "products": 21748,
    "price_changes": 0,
    "suspicious_changes": 0,
-   "expired": 133,
-   "seconds": 11063.7
+   "expired": 0,
+   "seconds": 11282.5
   }
  }
 }
